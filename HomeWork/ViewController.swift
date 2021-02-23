@@ -35,6 +35,7 @@ class ViewController: UIViewController {
 
     @IBAction func hideThirdImage(_ sender: Any) {
         thirdImageView.isHidden = true
+            // Do any additional setup after loading the view.
     }
 }
 
